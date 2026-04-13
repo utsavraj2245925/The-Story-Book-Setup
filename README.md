@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project demonstrates **Component Driven Development (CDD)** using **Storybook** in a React/Next.js environment.
 
+
+👉 Live link : https://the-storybook-setup.vercel.app/?path=/docs/configure-your-project--docs
+
 Instead of building UI components directly inside the main application, components are developed, tested, and documented in isolation using Storybook—just like in companies such as Spotify and Airbnb.
 
 ---
@@ -73,9 +76,6 @@ npm run storybook
 3. Build Storybook
 npm run build-storybook
 🌐 Live Preview
-
-👉 Add your deployed Storybook link here
-Example: https://your-storybook.vercel.app
 
 🎯 Learning Outcomes
 Component isolation & reusability
